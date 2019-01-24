@@ -1,0 +1,12 @@
+net: "conv.prototxt"
+base_lr: 0.02
+lr_policy: "step"
+gamma: 0.5
+stepsize: 5
+display: 2
+max_iter: 5
+snapshot: 5
+snapshot_prefix: "conv"
+solver_mode: GPU
+test_iter: 1
+test_interval: 2
