@@ -1,8 +1,0 @@
-*.pyc
-*.swp
-*.tar.gz
-*.tar
-*.tgz
-*.egg-info
-
-build/
